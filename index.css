@@ -1,0 +1,148 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container-ul-li {
+    display: flex;
+    justify-content: center;
+}
+
+.h1 {
+    margin-top: 5px;
+    margin-right: 20px;
+    font-weight: bolder;
+}
+
+.container-ul-li ul li {
+    float: left;
+    list-style-type: none;
+    /* margin-top: px; */
+    margin: 15px 20px;
+    font-size: 20px;
+    color: hsl(219, 9%, 45%);
+}
+
+.img1 {
+    width: 40px;
+    height: 40px;
+    margin-top: 5px;
+    margin-left: 40vh;
+}
+
+.line-div {
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
+
+.line-ptag {
+    border: 1px solid rgb(205, 213, 221);
+    width: 160vh;
+
+}
+
+/* shemdegi divis gastilva */
+
+.hole-div {
+    margin-top: 10vh;
+    margin-left: 20vh;
+
+}
+
+.info-div {
+    margin-left: 10vh;
+    margin-top: 8vh;
+}
+
+.frstimg {
+    width: 400px;
+    height: 400px;
+}
+
+.img-cotainer img {
+    width: 100px;
+    margin-top: 15px;
+    padding: 5px;
+    border-radius: 15px;
+}
+
+.display-div {
+    display: flex;
+}
+
+.pone {
+    font-size: 21px;
+    color: hsl(26, 100%, 55%);
+}
+
+.h1info {
+    margin-top: 5px;
+}
+
+.p-inf {
+    font-size: 20px;
+    margin-top: 10px;
+    color: hsl(219, 9%, 45%);
+}
+
+.sale {
+    display: flex;
+    margin-top: 15px;
+}
+
+.sale button {
+    width: 50px;
+    margin-left: 20px;
+    background-color: hsl(27, 85%, 82%);
+    color: hsl(26, 100%, 55%);
+    border: none;
+    border-radius: 5px;
+}
+
+.psale {
+    font-size: 20px;
+}
+
+.line {
+    border: 1px solid rgb(96, 95, 95);
+    margin-top: -13px;
+    width: 60px;
+}
+
+.btnmath {
+    width: 100px;
+    height: 20px;
+    background-color: hsl(223, 64%, 98%);
+}
+
+.btndiv {
+    display: flex;
+}
+
+.cardbtn {
+    margin-left: 30px;
+    width: 180px;
+    height: 30px;
+    background-color: hsl(26, 100%, 55%);
+    border: none;
+    border-radius: 5px;
+    color: hsl(0, 0%, 100%);
+}
+
+.btnmath button {
+    background-color: hsl(223, 64%, 98%);
+    width: 30px;
+    border: none;
+}
+
+.min {
+    color: hsl(26, 100%, 55%);
+    font-size: larger;
+    /* font-size: 25px; */
+}
+
+.pliu {
+    color: hsl(26, 100%, 55%);
+    font-size: larger;
+}
